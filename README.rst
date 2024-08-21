@@ -1,4 +1,4 @@
-DISCLAIMER
+#DISCLAIMER
 
 This is a direct copy of the official OBS Studio repository version 30.2.3.  
 It is included here for reference and to provide a starting point for the README.md file in this repository. 
@@ -6,7 +6,7 @@ I do not own this project as it is not my original work. Any changes made to thi
 purposes and are not intended to be used in any other way. 
 
 
-OBS Studio https://obsproject.com
+#OBS Studio https://obsproject.com
 ===================================
 
 .. image:: https://github.com/obsproject/obs-studio/actions/workflows/push.yaml/badge.svg?branch=master
